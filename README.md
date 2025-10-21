@@ -10,3 +10,4 @@ Task3:
 Here, the program performs the same functionality as in Task 2, but instead of using SDK functions, the hardware is controlled directly through memory mapped registers. The GPIO pins are still initialized using small C wrapper functions, while all reading of the button states and control of the LEDs is handled entirely in Assembly. By accessing the SIO register at address 0xD0000000, the program can directly write to GPIO_OUT_SET to turn both LEDs on when the GP3 button is pressed, and to GPIO_OUT_CLR to turn them off when the GP2 button is pressed. This approach shows how the processor communicates with the hardware at a low level, offering a simpåler understanding of how input and output are managed directly through register manipulation.
 
 ![assigment3bildpabreadboard](https://github.com/user-attachments/assets/84a92e53-7ed5-48a0-95a6-d701965a8d42)
+Here is a picture of our connections that we have made. 
