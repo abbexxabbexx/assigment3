@@ -11,3 +11,7 @@ Here, the program performs the same functionality as in Task 2, but instead of u
 
 ![assigment3bildpabreadboard](https://github.com/user-attachments/assets/84a92e53-7ed5-48a0-95a6-d701965a8d42)
 Here is a picture of our connections that we have made. 
+
+<img width="796" height="596" alt="task1utdata" src="https://github.com/user-attachments/assets/0a89d2cf-d43e-4c06-8a31-6db1217d4624" />
+Here is the output from task1 using minicom.
+
